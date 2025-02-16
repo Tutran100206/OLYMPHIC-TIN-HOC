@@ -9,7 +9,6 @@ void nhap(string& a);
 void xuat(string a);
 void daonguocchuoi(string a);
 void inkituinhoacuachuoi(string a);
-int soluongkitutrong1tu(string a);
 void timtudainhattrongchuoi(string a);
 void chuanhoachuoi(string a);
 void cacthaotactrenchuoi(string a);
@@ -52,15 +51,6 @@ void inkituinhoacuachuoi(string a) {
 	}
 }
 
-int soluongkitutrong1tu(string a) {
-	int i = 0, dem = 0; 
-	while (i < a.size()) {
-		dem++;
-		i++;
-	}
-	return dem;
-}
-
 void timtudainhattrongchuoi(string a) {
 	stringstream ss(a);
 	string tam, tam1;
@@ -70,7 +60,7 @@ void timtudainhattrongchuoi(string a) {
 	}
 	int i = 0, max = 0;
 	while (i < v.size()) {
-		int k = soluongkitutrong1tu(v[i]);
+		int k = v[i].size();
 		if (k > max) {
 			max = k;
 			tam1 = v[i];
