@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\kithuatlaptrinh\\baitapktlt\\tonghieu2solon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1098449-3703-4F38-95F6-3662AD9BEC0A}|tonghieu2solon\\tonghieu2solon.vcxproj|E:\\kithuatlaptrinh\\baitapktlt\\tonghieu2solon\\tonghieu2solon\\tonghieu2solon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1098449-3703-4F38-95F6-3662AD9BEC0A}|tonghieu2solon\\tonghieu2solon.vcxproj|solutionrelative:tonghieu2solon\\tonghieu2solon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tonghieu2solon.cpp",
+              "DocumentMoniker": "E:\\kithuatlaptrinh\\baitapktlt\\tonghieu2solon\\tonghieu2solon\\tonghieu2solon.cpp",
+              "RelativeDocumentMoniker": "tonghieu2solon\\tonghieu2solon.cpp",
+              "ToolTip": "E:\\kithuatlaptrinh\\baitapktlt\\tonghieu2solon\\tonghieu2solon\\tonghieu2solon.cpp",
+              "RelativeToolTip": "tonghieu2solon\\tonghieu2solon.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T07:32:59.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

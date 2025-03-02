@@ -1,0 +1,4 @@
+﻿  tonghieu2solon.cpp
+E:\kithuatlaptrinh\baitapktlt\tonghieu2solon\tonghieu2solon\tonghieu2solon.cpp(42,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\kithuatlaptrinh\baitapktlt\tonghieu2solon\tonghieu2solon\tonghieu2solon.cpp(72,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  tonghieu2solon.vcxproj -> E:\kithuatlaptrinh\baitapktlt\tonghieu2solon\x64\Debug\tonghieu2solon.exe
